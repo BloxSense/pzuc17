@@ -1,3 +1,5 @@
+#Составить функцию, которая напечатает сорок любых символов.
+
 import random
 
 def GetRandomString(length):
