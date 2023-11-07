@@ -1,5 +1,5 @@
 import random
-
+#
 def GetRandomString(length):
     Symbols = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm1234567890!@#$%^&*()_+-№;%:?[];',./{}:<>|"
     Output = ""
